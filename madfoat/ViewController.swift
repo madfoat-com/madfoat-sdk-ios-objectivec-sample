@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
     let userTitle = "Mr"
     let userFirstname = "JB"
-    let userLastName = "Pakala"
+    let userLastName = "Pakala "
     let purchaseAmount = "25"
     let EMAIL:String = "test@test.com" // TODO fill email id
     
